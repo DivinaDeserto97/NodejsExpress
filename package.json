@@ -1,0 +1,19 @@
+{
+  "name": "my.nodejs.express",
+  "version": "1.0.0",
+  "description": "mein test für node.js mit Express extension",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DivinaDeserto97/NodejsExpress.git"
+  },
+  "author": "Tobias Wild",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DivinaDeserto97/NodejsExpress/issues"
+  },
+  "homepage": "https://github.com/DivinaDeserto97/NodejsExpress#readme"
+}
