@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DivinaDeserto97/NodejsExpress/issues"
   },
-  "homepage": "https://github.com/DivinaDeserto97/NodejsExpress#readme"
+  "homepage": "https://github.com/DivinaDeserto97/NodejsExpress#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
